@@ -32,4 +32,4 @@ Runs in a continuous loop until encountering the "q" (quit) command. It waits fo
 
 * README.md = Is the readme which is info about this project and its code, contains what you read now
 * calculator.rb = The main calculator program, written entirely by me using the Ruby programming language
-* calculator-ORIGINAL.rb = Is the original code example, I could have built off this example to complete the "extra" and the "extra extra" credit assignments but since the main objective is to learn Ruby and ultimately learn how to program I figured it be best to start from scratch.
+* calculator-ORIGINAL.rb = Is the original code example, I could have built off this example to complete the "extra" and the "extra extra" credit assignments but since the main objective is to learn Ruby and ultimate learn how to program I figured it be best to start from scratch.
