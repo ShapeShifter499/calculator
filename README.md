@@ -1,4 +1,4 @@
-#This is my submission of the "calculator project" the first assignment of the Sacramento Ruby beginners meetup.
+#This is my submission of the "calculator" the first assignment of the Sacramento Ruby beginners meetup.
 
 ## Project
 
