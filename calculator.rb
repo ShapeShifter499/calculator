@@ -23,5 +23,5 @@ end
 end
 
 fun = Calculator.new
-Calculator.maincalc
+fun.maincalc
 
