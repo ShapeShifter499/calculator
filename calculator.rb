@@ -1,28 +1,27 @@
-#HP Style calculator
+#RPN style calculator **MEGA ROUGH DRAFT VERSION ALPHA: Not for public consumption, may cause computer crashes, upset stomach, dizziness, or death**  
 
-#User input
+
 
 class Calculator
-
-UserInput = gets.chomp
 
 def memory
   memory = []
 end
 
+##Dummy test, this will evenually calculate like a real calculator!
 def maincalc
-if UserInput = q
+user_input = gets.chomp
+if user_input == 'q'
   puts "this appears to be working"
+else
+  puts "this doesn't seem to be working, argh!"
   exit
 end
 
-maincalc
-
 end
 
 end
 
-end
-
-end
+fun = Calculator.new
+Calculator.maincalc
 
